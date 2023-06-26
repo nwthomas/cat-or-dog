@@ -1,4 +1,4 @@
-# CAT OR DOG
+# CAT OR DOG MODEL
 
 In the spirit of learning more about deep learning, I've trained a model on spotting either a cat or a dog.
 
